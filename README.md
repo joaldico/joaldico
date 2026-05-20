@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 Josué Díaz | AI Solutions Architect & Senior Full Stack Engineer
 
-<!--
-**joaldico/joaldico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un Ingeniero de Sistemas especializado en arquitecturas escalables, integración de Inteligencia Artificial y despliegues en la nube. Radicado en Madrid, España, diseño soluciones tecnológicas robustas orientadas al rendimiento empresarial.
 
-Here are some ideas to get you started:
+### 🎓 Perfil Académico
+- 🎓 **Ingeniería de Sistemas** (Especialidad en Control y Automatización)
+- 📊 **Máster en Data Science**
+- 🧠 **Máster en Inteligencia Artificial aplicada a la Sanidad**
+- 🚀 **Especialización Cloud & Arquitecturas Modernas** (Factoría F5 / Desarrollo MFE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológico Principal
+*Arquitecturas centradas en la robustez del backend con Java y Python, extendiéndose al ecosistema completo.*
+
+**Backend & Data:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+**Infraestructura & DevOps:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📈 Estadísticas de Desarrollo
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaldico&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaldico&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+---
+📫 **Conecta conmigo:** [![LinkedIn](https://www.linkedin.com/in/josue-alejandro-diaz-contreras-717b15155/)
