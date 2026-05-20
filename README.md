@@ -5,7 +5,7 @@
 ### 🎓 Perfil Académico
 - 🎓 **Ingeniería de Sistemas** (Especialidad en Control y Automatización)
 - 📊 **Máster en Data Science**
-- 🧠 **Máster en Inteligencia Artificial aplicada a la Sanidad**
+- 🧠 **Máster en Inteligencia Artificial aplicada a la Sanidad** (En curso)
 - 🚀 **Especialización Cloud & Arquitecturas Modernas** (Factoría F5 / Desarrollo MFE)
 
 ### 💻 Stack Tecnológico Principal
@@ -29,11 +29,9 @@
 
 ### 📈 Estadísticas de Desarrollo
 
-### 📈 Estadísticas de Desarrollo
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaldico&show_icons=true&theme=radical&hide_border=true)
 
-![Estadísticas de Josué](https://github-readme-stats.vercel.app/api?username=joaldico&show_icons=true&theme=radical&hide_border=true)
-
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=joaldico&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaldico&layout=compact&theme=radical&hide_border=true)
 
 ---
-📫 **Conecta conmigo:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-diaz)
+📫 **Conecta conmigo:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-alejandro-diaz-contreras-717b15155/)
