@@ -29,10 +29,11 @@
 
 ### 📈 Estadísticas de Desarrollo
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaldico&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaldico&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
+### 📈 Estadísticas de Desarrollo
+
+![Estadísticas de Josué](https://github-readme-stats.vercel.app/api?username=joaldico&show_icons=true&theme=radical&hide_border=true)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=joaldico&layout=compact&theme=radical&hide_border=true)
 
 ---
-📫 **Conecta conmigo:** [![LinkedIn](https://www.linkedin.com/in/josue-alejandro-diaz-contreras-717b15155/)
+📫 **Conecta conmigo:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-diaz)
